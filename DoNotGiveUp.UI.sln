@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoNotGiveUp.UI", "DoNotGiveUp.UI\DoNotGiveUp.UI.csproj", "{795CACD0-DF53-4D4B-ACF1-537D3D738F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoNotGiveUp.DAL", "DoNotGiveUp.DAL\DoNotGiveUp.DAL.csproj", "{5B825291-2C2A-4890-A9C2-0E36AC39F19F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoNotGiveUp.BLL", "DoNotGiveUp.BLL\DoNotGiveUp.BLL.csproj", "{F3631F13-CF0A-464E-A8A1-CA3EE80CD158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795CACD0-DF53-4D4B-ACF1-537D3D738F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795CACD0-DF53-4D4B-ACF1-537D3D738F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795CACD0-DF53-4D4B-ACF1-537D3D738F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795CACD0-DF53-4D4B-ACF1-537D3D738F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B825291-2C2A-4890-A9C2-0E36AC39F19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B825291-2C2A-4890-A9C2-0E36AC39F19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B825291-2C2A-4890-A9C2-0E36AC39F19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B825291-2C2A-4890-A9C2-0E36AC39F19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3631F13-CF0A-464E-A8A1-CA3EE80CD158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3631F13-CF0A-464E-A8A1-CA3EE80CD158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3631F13-CF0A-464E-A8A1-CA3EE80CD158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3631F13-CF0A-464E-A8A1-CA3EE80CD158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
